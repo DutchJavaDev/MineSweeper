@@ -511,10 +511,4 @@ public class MineSweeper extends GameApplication
 		new GameClient(new MineSweeper(), CLIENT_WIDTH, CLIENT_HEIGHT);
 	}
 
-	@Override
-	public void keyboardEvent(ApplicationEvent event, int key_code)
-	{
-		// TODO 
-		
-	}
 }
